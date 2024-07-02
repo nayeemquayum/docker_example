@@ -1,8 +1,8 @@
 panda
 numpy
-scikit-learn
+scikit-learn==1.4.2
 docker
 matplotlib
 seaborn
 plotly
-
+pytest
